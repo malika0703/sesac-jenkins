@@ -1,7 +1,7 @@
 version: "0.1"
 services :
   sesac-torch:
-    image : ysm2820/sesac-torch
+    image : malika0703/sesac-jenkins-test
     ports : 
       - 8888:5000
     volumes : 
